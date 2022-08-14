@@ -7,7 +7,7 @@ import net.minecraftforge.fml.common.Mod;
 public class DynamicVehicles {
 
     public DynamicVehicles() {
-        
+
     }
 
 }
